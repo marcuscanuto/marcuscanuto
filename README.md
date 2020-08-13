@@ -1,16 +1,14 @@
-### Hi there 👋
+# ## welcome to my profile
+## computer science student        
 
-<!--
-**marcuscanuto/marcuscanuto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  
+:mortar_board:
+Hello, My name is Marcus Vinicius, I live in Brazil, I am a computer science student at the Federal Institute of Maranhão.  
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mv.canutosilva@gmail.com)](mv.canutosilva@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/mvcanuto00/)](https://www.instagram.com/mvcanuto00/)
+[![Twitter Badge](https://img.shields.io/badge/-@dieegosf-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/cnBvei)](https://twitter.com/cnBvei)
+
+

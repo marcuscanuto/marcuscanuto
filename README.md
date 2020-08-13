@@ -1,8 +1,5 @@
 # ## welcome to my profile
-## computer science student        
-
-  
-:mortar_board:
+## computer science student :mortar_board:
 Hello, My name is Marcus Vinicius, I live in Brazil, I am a computer science student at the Federal Institute of Maranhão.  
 
 
